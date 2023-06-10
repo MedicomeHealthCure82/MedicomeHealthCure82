@@ -1,0 +1,77 @@
+.ak-1 b{
+    display: flex;
+    list-style: none;
+    padding-left: 50px;
+    background-color: rgb(13, 13, 97);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1250px;
+}
+.ak-1{
+    position: absolute;
+
+}
+.ak-1 li{
+    padding-left: 100px;
+    color: white;   
+}
+
+.ms-1{
+    position: relative;
+    padding-top: 20px;
+    padding-left: 1100px;
+}
+.btn{
+
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: -20px;
+border: 1px solid black;
+color: black;
+font-size: 15px;
+
+}
+.ak-3 img{
+    position: absolute;
+    padding-top: 20px;
+}
+
+.ak-2{
+    position: relative;
+    padding-left: 60px;
+}
+.ak-4{
+        
+        height: auto;
+        
+    
+    }
+    .ak{
+        position: absolute;
+    }
+    .ak-4{
+        position: relative;
+        padding-top: 29px;
+    }
+    .kav-2{
+        display: flex;
+        height: 80px; 
+        background-color: rgb(20, 20, 83);
+    }
+    .kav-2 img{
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    
+    .footer{
+        display: flex;
+        height: 80px;
+        background-color: rgb(20, 20, 94);
+    }
+    .footer{
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    
